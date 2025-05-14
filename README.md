@@ -27,8 +27,8 @@ Os arquivos analisados pelo chatbot estão localizados na pasta `inputs`.
 
 Veja abaixo alguns prints do processo no Azure e da aplicação em funcionamento:
 
-![Hub criado](screenshots/print1.png)
-![Chat funcionando](screenshots/print2.png)
+![Hub criado](screenshots/chat.png)
+![Chat funcionando](screenshots/chatplay.png)
 
 ## 🚀 Insights
 
