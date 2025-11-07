@@ -36,8 +36,5 @@ Veja abaixo alguns prints do processo no Azure e da aplicação em funcionamento
 - Consegui integrar dados personalizados no modelo de IA.
 - Vejo possibilidades de aplicar isso em projetos acadêmicos e corporativos.
 
-## 🔗 Link do Projeto no Azure
-[Coloque aqui o link se for público, ou apenas cite que foi feito no portal Azure]
-
 ---
 Desenvolvido durante o bootcamp DIO + Microsoft
